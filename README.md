@@ -1,5 +1,5 @@
-# understrap-child
-Basic Child Theme for UnderStrap Theme Framework: https://github.com/holger1411/understrap
+# Titanium Mk III
+Personalised Child Theme for UnderStrap Theme Framework: https://github.com/holger1411/understrap
 
 ## How it works
 It shares with the parent theme all PHP files and adds its own functions.php on top of the UnderStrap parent themes functions.php.
