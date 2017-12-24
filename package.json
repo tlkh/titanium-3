@@ -25,7 +25,7 @@
   "homepage": "https://understrap.com",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
-    "browser-sync": "^2.18.12",
+    "browser-sync": "^2.21.0",
     "del": "^3.0.0",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
@@ -46,9 +46,9 @@
     "gulp-watch": "^4.3.11",
     "jquery": "3.2.1",
     "merge2": "^1.2.0",
-    "popper.js": "^1.12.5",
+    "popper.js": "^1.13.0",
     "run-sequence": "^2.2.0",
-    "understrap": "^0.6.5",
+    "understrap": "^0.6.12",
     "undescores-for-npm": "^1.0.0"
   }
 }
